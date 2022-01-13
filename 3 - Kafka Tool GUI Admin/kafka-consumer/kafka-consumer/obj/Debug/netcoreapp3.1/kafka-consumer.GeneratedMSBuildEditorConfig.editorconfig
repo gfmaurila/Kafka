@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = kafka_consumer
+build_property.ProjectDir = F:\Work\Work\Exemplos\Alexandre Brandão Lustosa\Kafka\1-Kafka e Zookeeper no Docker - Produtor e Consumidor C# .Net Core\kafka-consumer\kafka-consumer\

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5G97uVFNLtotMWdtR5EXNJPXMxBEGK6lrH6zkOyTjn1zGjjI8zMjGVWnjyGT0mkkXttlmNDuvlWjzbmnhXLuw==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\Kafka\\1-Kafka e Zookeeper no Docker - Produtor e Consumidor C# .Net Core\\kafka-producer\\kafka-producer\\kafka-producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
